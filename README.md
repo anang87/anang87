@@ -6,6 +6,6 @@ I am the Co-President at World of Devs, which is on organization aiming to promo
 
 You can reach me at 📧:
 
-LinkedIn: https://www.linkedin.com/in/anantjyot-grang/
+[LinkedIn](https://www.linkedin.com/in/anantjyot-grang/)
 
 [Instagram](https://www.instagram.com/anan.g87/)
