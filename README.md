@@ -5,6 +5,7 @@ My name is Anantjyot Grang and I am a Grade 10 student attending Harold M. Brath
 I am the Co-President at World of Devs, which is on organization aiming to promote app📱 and web 🖥 development. I am also working on creating my own app at the moment.
 
 You can reach me at 📧:
+
 LinkedIn: https://www.linkedin.com/in/anantjyot-grang/
 
 Instagram: anan.g87
