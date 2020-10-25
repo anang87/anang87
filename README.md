@@ -10,3 +10,4 @@ LinkedIn: https://www.linkedin.com/in/anantjyot-grang/
 
 Instagram: anan.g87
 
+[Instagram] (https://instagram.com "Instagraml")
