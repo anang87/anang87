@@ -8,6 +8,4 @@ You can reach me at 📧:
 
 LinkedIn: https://www.linkedin.com/in/anantjyot-grang/
 
-Instagram: anan.g87
-
-[Instagram] (https://instagram.com "Instagraml")
+[Instagram](https://www.instagram.com/anan.g87/)
