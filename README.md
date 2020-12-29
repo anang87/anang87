@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 My name is Anantjyot Grang and I am a Grade 10 student attending Harold M. Brathwaite Secondary School for the IB program 🏫. I am passionate about coding 💻 and am currently working with Python 🐍, Java ☕️, and HTML/CSS 🌐. I enjoy app and web development alongside UI/UX design.
 
